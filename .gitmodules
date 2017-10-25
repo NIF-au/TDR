@@ -1,0 +1,3 @@
+[submodule "xnat-docker-compose"]
+	path = xnat-docker-compose
+	url = git@github.com:mbi-image/xnat-docker-compose.git
