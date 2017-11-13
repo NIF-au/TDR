@@ -4,3 +4,6 @@
 [submodule "xnat-simple-upload-plugin"]
 	path = xnat-simple-upload-plugin
 	url = git@github.com:mbi-image/xnat-simple-upload-plugin.git
+[submodule "imagetrove-python-uploader"]
+	path = imagetrove-python-uploader
+	url = https://github.com/NIF-au/imagetrove-python-uploader
