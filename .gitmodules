@@ -7,3 +7,6 @@
 [submodule "imagetrove-python-uploader"]
 	path = imagetrove-python-uploader
 	url = https://github.com/NIF-au/imagetrove-python-uploader
+[submodule "imagetrove"]
+	path = imagetrove
+	url = https://github.com/NIF-au/imagetrove
