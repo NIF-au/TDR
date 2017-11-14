@@ -14,3 +14,7 @@ The following submodules were all developed as part of the NIF Trusted Data Resp
 [imagetrove](https://github.com/NIF-au/imagetrove) - server
 
 [imagetrove-python-uploader](https://github.com/NIF-au/imagetrove-python-uploader) - client side upload scripts
+
+## MyTardis docker deployment (developed by UWA)
+
+[docker-mytardis](https://github.com/UWA-FoS/docker-mytardis)
