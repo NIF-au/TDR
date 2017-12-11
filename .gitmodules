@@ -10,3 +10,6 @@
 [submodule "imagetrove"]
 	path = imagetrove
 	url = https://github.com/NIF-au/imagetrove
+[submodule "xnat-utils"]
+	path = xnat-utils
+	url = https://github.com/mbi-image/xnat-utils
